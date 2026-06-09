@@ -1,7 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0055FF&height=200&section=header&text=Welcome%20to%20My%20GitHub%20Profile&fontSize=30&fontColor=ffffff)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Rasika;CSE+Student;Python+Developer;Django+Learner;AI+Security+Enthusiast)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Rasika+S;CSE-CS+Student;Python+Full+Stack+Web+Developer;Django+Learner)](https://git.io/typing-svg)
 ---
 
 ## 👤 About Me
