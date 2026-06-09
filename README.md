@@ -70,7 +70,7 @@
 ## 📫 Contact Me
 - 📧 Email: rasika0828@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/rasika-saravanan-92ba86333/  
-- 🌐 Portfolio: https://rasika28-cs.github.io/RASIKA-S-Full-Stack-Developer
+- 🌐 Portfolio: https://rasika28-cs.github.io/RASIKA-S-Full-Stack-Developer-/
 
 ---
 
