@@ -5,10 +5,9 @@
 ---
 
 ## 👤 About Me
-- 🎓 Computer Science Engineering Student  
-- 💻 Passionate about Python, Web Development & AI Security  
+- 🎓 Computer Science Engineering (Cyber Security)Student  
+- 💻 Passionate about Python, Full Stack Web Development & AI Security  
 - 🌱 Currently learning Django & Machine Learning  
-- 🔐 Interested in AI safety and prompt injection security systems  
 - 🚀 Love building real-world projects  
 
 ---
