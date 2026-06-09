@@ -37,10 +37,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rasika28-cs&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Rasika28-cs&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rasika28-cs&layout=compact&theme=tokyonight)
-
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rasika28-cs)
 ---
 
 ## 🔥 GitHub Streak
