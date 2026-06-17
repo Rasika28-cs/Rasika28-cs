@@ -102,17 +102,6 @@ print(me.motto())
 
 </div>
 
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Rasika28-cs&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"/>
-
-</div>
-
----
 
 # 🚀 Featured Projects
 
@@ -187,11 +176,6 @@ Cloud Computing
 
 ---
 
-# 📈 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Rasika28-cs/Rasika28-cs/output/github-contribution-grid-snake.svg" />
-</p>
 
 ---
 
